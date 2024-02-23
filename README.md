@@ -8,7 +8,7 @@ El propósito de este análisis es examinar la influencia de los presupuestos de
 
 ## Contenido
 
-- **cleaned_data.xlsx**: Archivo Excel que contiene el conjunto de datos limpio utilizado en el análisis. El conjunto de datos incluye información sobre los presupuestos de publicidad en televisión y radio, así como las ventas correspondientes.
+- **cCleaned_Advertising_Budget_and_Sales.xlsx**: Archivo Excel que contiene el conjunto de datos limpio utilizado en el análisis. El conjunto de datos incluye información sobre los presupuestos de publicidad en televisión y radio, así como las ventas correspondientes.
 
 - **analysis_code.R**: Código R limpio que realiza el análisis exploratorio de datos, ajusta los modelos de regresión lineal y genera visualizaciones. El código está organizado y comentado para facilitar su comprensión.
 
