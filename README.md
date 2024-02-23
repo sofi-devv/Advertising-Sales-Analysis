@@ -16,7 +16,7 @@ El propósito de este análisis es examinar la influencia de los presupuestos de
 
 ## Cómo Utilizar
 
-1. Descarga el conjunto de datos limpio desde el archivo `cleaned_data.xlsx`.
+1. Descarga el conjunto de datos limpio desde el archivo `Cleaned_Advertising_Budget_and_Sales.xlsx`.
 2. Ejecuta el código contenido en el archivo `analysis_code.R` en tu entorno de R para reproducir el análisis y los modelos de regresión lineal.
 3. Consulta el documento `regression_analysis.pdf` para obtener una visión detallada de los resultados y conclusiones del análisis.
 
